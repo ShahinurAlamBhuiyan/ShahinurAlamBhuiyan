@@ -54,13 +54,13 @@
 
 
 [programming]: https://www.programming-hero.com/
-[website]: 
-[twitter]: 
-[linkedin]: 
-[webdevplaylist]:
-[jsplaylist]: 
-[cssplaylist]:
-[reactplaylist]: 
+[website]: https://www.facebook.com/shahin19sep/
+[twitter]: https://www.facebook.com/shahin19sep/
+[linkedin]: https://www.facebook.com/shahin19sep/
+[webdevplaylist]: https://www.facebook.com/shahin19sep/
+[jsplaylist]: https://www.facebook.com/shahin19sep/
+[cssplaylist]:https://www.facebook.com/shahin19sep/
+[reactplaylist]: https://www.facebook.com/shahin19sep/
 [instagram]: https://www.instagram.com/_shahin__bhuiyan_/
 [Facebook]: https://www.facebook.com/shahin19sep/
-[Medium]:
+[Medium]: https://www.facebook.com/shahin19sep/
