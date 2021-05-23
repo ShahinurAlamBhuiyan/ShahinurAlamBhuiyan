@@ -4,8 +4,8 @@
 
 ---
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working on [Front-end development][website].
+## 😍😍 A JavaScript Lover 😍😍!
+- 🔭 Currently working on [Front-end development][website].
 - 🌱 Always try to learn modern technology
 - 🥅 2022 Goals: JavaScript, React.js, React Native, MySQL
 - 💬 Ask me about JavaScript or any Front-end related stuff 
