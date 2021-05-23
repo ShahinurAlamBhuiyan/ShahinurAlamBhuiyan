@@ -59,7 +59,11 @@
 [website]: https://bhuiyan-portfolio.web.app/
 [twitter]: https://twitter.com/ShahinurAlamBh1
 [linkedin]: https://www.linkedin.com/in/shahinur-alam-bhuiyan-178161211/
-[htmlplaylist]: https://www.w3schools.com/
+[instagram]: https://www.instagram.com/_shahin__bhuiyan_/
+[Facebook]: https://www.facebook.com/shahin19sep/
+[Medium]: https://shahinur-alam-bhuiyan01.medium.com/
+
+[htmlplaylist]: https://www.w3schools.com/html/
 [jsplaylist]: https://www.w3schools.com/js/js_intro.asp
 [cssplaylist]: https://www.w3schools.com/css/
 [reactplaylist]: https://reactjs.org/
@@ -69,6 +73,3 @@
 [node]: https://nodejs.org/en/
 [github]: http://github.com/
 [git]: https://git-scm.com/
-[instagram]: https://www.instagram.com/_shahin__bhuiyan_/
-[Facebook]: https://www.facebook.com/shahin19sep/
-[Medium]: https://shahinur-alam-bhuiyan01.medium.com/
