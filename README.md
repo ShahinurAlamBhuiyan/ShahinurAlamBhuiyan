@@ -29,7 +29,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][https://sass-lang.com/]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
@@ -59,10 +59,10 @@
 [website]: https://bhuiyan-portfolio.web.app/
 [twitter]: https://twitter.com/ShahinurAlamBh1
 [linkedin]: https://www.linkedin.com/in/shahinur-alam-bhuiyan-178161211/
-[webdevplaylist]: https://www.linkedin.com/in/shahinur-alam-bhuiyan-178161211/
-[jsplaylist]: https://www.linkedin.com/in/shahinur-alam-bhuiyan-178161211/
-[cssplaylist]: https://www.linkedin.com/in/shahinur-alam-bhuiyan-178161211/
-[reactplaylist]: https://www.linkedin.com/in/shahinur-alam-bhuiyan-178161211/
+[webdevplaylist]: https://www.w3schools.com/
+[jsplaylist]: https://www.w3schools.com/js/js_intro.asp
+[cssplaylist]: https://www.w3schools.com/css/
+[reactplaylist]: https://reactjs.org/
 [instagram]: https://www.instagram.com/_shahin__bhuiyan_/
 [Facebook]: https://www.facebook.com/shahin19sep/
 [Medium]: https://shahinur-alam-bhuiyan01.medium.com/
