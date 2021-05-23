@@ -14,7 +14,7 @@
 ### Connect with me:
 <br />
 
-[<img align="left" alt="https://bhuiyan-portfolio.web.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="shahin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -55,13 +55,13 @@
 
 
 [programming]: https://www.programming-hero.com/
-[website]: https://www.facebook.com/shahin19sep/
-[twitter]: https://www.facebook.com/shahin19sep/
-[linkedin]: https://www.facebook.com/shahin19sep/
-[webdevplaylist]: https://www.facebook.com/shahin19sep/
-[jsplaylist]: https://www.facebook.com/shahin19sep/
-[cssplaylist]:https://www.facebook.com/shahin19sep/
-[reactplaylist]: https://www.facebook.com/shahin19sep/
+[website]: https://bhuiyan-portfolio.web.app/
+[twitter]: https://twitter.com/ShahinurAlamBh1
+[linkedin]: https://www.linkedin.com/in/shahinur-alam-bhuiyan-178161211/
+[webdevplaylist]: https://www.linkedin.com/in/shahinur-alam-bhuiyan-178161211/
+[jsplaylist]: https://www.linkedin.com/in/shahinur-alam-bhuiyan-178161211/
+[cssplaylist]: https://www.linkedin.com/in/shahinur-alam-bhuiyan-178161211/
+[reactplaylist]: https://www.linkedin.com/in/shahinur-alam-bhuiyan-178161211/
 [instagram]: https://www.instagram.com/_shahin__bhuiyan_/
 [Facebook]: https://www.facebook.com/shahin19sep/
-[Medium]: https://www.facebook.com/shahin19sep/
+[Medium]: https://shahinur-alam-bhuiyan01.medium.com/
