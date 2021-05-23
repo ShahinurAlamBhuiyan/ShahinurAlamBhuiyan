@@ -6,11 +6,11 @@
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working on [Front-end development][website].
-- 🌱 I’m currently learning everything
-- 🥅 2021 Goals: JavaScript, React.js, TypeScript
+- 🌱 Always try to learn modern technology
+- 🥅 2022 Goals: JavaScript, React.js, React Native, MySQL
 - 💬 Ask me about JavaScript or any Front-end related stuff 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to Explore the world
+- ⚡ Fun fact: I love to Explore the world & also a Nature lover
 
 ### Connect with me:
 <br />
