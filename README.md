@@ -1,4 +1,4 @@
-<img align="left" alt="shahin.com" width="420px"  src="https://i.ibb.co/KLmJfQj/Digital-nomad-rafiki.png" />
+<img align="left" alt="shahin.com" width="420px"  src="https://i.ibb.co/wdsGD3r/Browsing-online-bro.png" />
 
 ### Hi there, I'm [ShahinurAlamBhuiyan][website] 👋
 
@@ -7,7 +7,7 @@
 ## 😍😍 A JavaScript Lover 😍😍!
 - 🔭 Currently working on [Front-end development][website].
 - 🌱 Always try to learn modern technology
-- 🥅 2022 Goals: JavaScript, React.js, React Native, MySQL
+- 🥅 2022 Goals: TypeScript, Next.js, React Native
 - 💬 Ask me about JavaScript or any Front-end related stuff 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to Explore the world & also a Nature lover
