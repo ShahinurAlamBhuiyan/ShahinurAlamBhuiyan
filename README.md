@@ -4,13 +4,13 @@
 
 ---
 
-## 😍😍 A JavaScript Lover 😍😍!
-- 🔭 Currently working on [Front-end development][website].
+## 😍 ALWAYS LOVE TO LEARN SOMETHING NEW 😍 !
+- 🏫 Studies B.Sc (Engineering) in Computer Science & Engineering (C.S.E) at [United International University][uiu].
+- 🔭 Worked as a [Front-end developer][website].
 - 🌱 Always try to learn modern technology
-- 🥅 2022 Goals: TypeScript, Next.js, React Native
-- 💬 Ask me about JavaScript or any Front-end related stuff 
+- 🥅 2023 Goals: Phython, Next.js, Vue.js
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to Explore the world & also a Nature lover
+- ⚡ Fun fact: I want to explore the world, using my invention.
 
 ### Connect with me:
 <br />
@@ -29,6 +29,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" />][cplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sassplaylist]
@@ -62,6 +63,7 @@
 [instagram]: https://www.instagram.com/_shahin__bhuiyan_/
 [Facebook]: https://www.facebook.com/shahin19sep/
 [Medium]: https://shahinur-alam-bhuiyan01.medium.com/
+[uiu]:https://www.uiu.ac.bd/
 
 [htmlplaylist]: https://www.w3schools.com/html/
 [jsplaylist]: https://www.w3schools.com/js/js_intro.asp
