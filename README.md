@@ -6,9 +6,9 @@
 
 ## 😍 ALWAYS LOVE TO LEARN SOMETHING NEW 😍 !
 - 🏫 Studies B.Sc (Engineering) in Computer Science & Engineering (C.S.E) at [United International University][uiu].
-- 🔭 Worked as a [Front-end developer][website].
+
 - 🌱 Always try to learn modern technology
-- 🥅 2023 Goals: Phython, Next.js, Vue.js
+- 🥅 2023 Goals: Java, C++, Phython, Next.js
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I want to explore the world, using my invention.
 
