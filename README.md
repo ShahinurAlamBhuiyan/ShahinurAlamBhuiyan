@@ -8,7 +8,7 @@
 - 🏫 Studies B.Sc (Engineering) in Computer Science & Engineering (C.S.E) at [United International University][uiu].
 
 - 🌱 Always try to learn modern technology
-- 🥅 2023 Goals: Java, C++, Phython, Next.js
+- 🥅 2023 Goals: Java, C++, Python
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I want to explore the world, using my invention.
 
