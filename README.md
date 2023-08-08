@@ -1,4 +1,4 @@
-<img align="left" alt="shahin.com" width="420px"  src="https://i.ibb.co/wdsGD3r/Browsing-online-bro.png" />
+<img align="left" alt="shahin.com" width="420px" height="460"  src="https://i.ibb.co/wdsGD3r/Browsing-online-bro.png" />
 
 ### Hi there, I'm [ShahinurAlamBhuiyan][website] 👋
 
@@ -14,7 +14,7 @@
 
 ### Connect with me:
 <br />
-
+                
 [<img align="left" alt="shahin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
