@@ -36,6 +36,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][mongodb]
+[<img align="left" alt="mySql" width="26px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />][mysql]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][node]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
@@ -66,6 +67,7 @@
 [uiu]:https://www.uiu.ac.bd/
 
 [htmlplaylist]: https://www.w3schools.com/html/
+[mysql]:https://www.mysql.com/
 [jsplaylist]: https://www.w3schools.com/js/js_intro.asp
 [cssplaylist]: https://www.w3schools.com/css/
 [reactplaylist]: https://reactjs.org/
