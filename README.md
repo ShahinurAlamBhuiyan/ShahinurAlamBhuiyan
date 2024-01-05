@@ -31,7 +31,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">⚡ Languages & Tools ⚡ </h3></summary>
+    <summary><h3 style="display: inline-block">⚡ Tech that's been explored ⚡ </h3></summary>
   </ul>
 </div>
 
@@ -43,10 +43,10 @@
 
 
 ![Java](https://img.shields.io/badge/java-5382a1?style=for-the-badge&logo=java&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColorlogo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -54,16 +54,14 @@
 **Frontend**
 
 
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/react-02CCFE?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![CHAKRAUI](https://img.shields.io/badge/chakra_ui-319795?style=for-the-badge&logo=chakraui&logoColor=white)
-![Headlessui](https://img.shields.io/badge/headlessui-66E3FF?style=for-the-badge&logo=headlessui&logoColor=white)
+![Headlessui](https://img.shields.io/badge/headlessui-02CCFE?style=for-the-badge&logo=headlessui&logoColor=white)
 ![ShadcnUI](https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
 
@@ -74,6 +72,8 @@
 
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
  **Database**
 
@@ -84,7 +84,7 @@
 
  **Cloud Servers**
   
-![FIREBASE](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![FIREBASE](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
 ![Clerk](https://img.shields.io/badge/clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
 
@@ -102,6 +102,10 @@
 ![POSTMAN](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![EXPO](https://img.shields.io/badge/expo-000020?style=for-the-badge&labelColor=black&logo=expo&logoColor=ffffff)
+![Cisco](https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![Multisim](https://img.shields.io/badge/multisim-57B685?style=for-the-badge&logo=multisim&logoColor=white)
+
 
 
 
@@ -118,7 +122,7 @@
 
 <div align="center >
  <a href="https://github.com/ShahinurAlamBhuiyan"><img width="440"  src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahinurAlamBhuiyan?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/></a>
- <a href="https://github.com/ShahinurAlamBhuiyan"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShahinurAlamBhuiyan&theme=dark&border_radius=5&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri&fire=EB5454&ring=EB5454&currStreakLabel=EB5454&card_width=400" alt="Saif's GitHub streak"/></a>
+ <a href="https://github.com/ShahinurAlamBhuiyan"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShahinurAlamBhuiyan&theme=dark&border_radius=5&fire=EB5454&ring=EB5454&currStreakLabel=EB5454&card_width=400" alt="Saif's GitHub streak"/></a>
 </div>
 
 
