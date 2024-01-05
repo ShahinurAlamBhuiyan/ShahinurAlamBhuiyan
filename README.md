@@ -76,7 +76,7 @@
 
 
 
-<img width="30" height="30" src="https://img.icons8.com/external-flaticons-lineal-flat-icons/64/external-backend-computer-programming-flaticons-lineal-flat-icons.png" alt="external-backend-computer-programming-flaticons-lineal-flat-icons"/> **Backend**
+**Backend**
 
 
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
@@ -89,7 +89,7 @@
 ![Sqlite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-<img width="30" height="30" src="https://img.icons8.com/external-edtim-outline-edtim/50/external-server-hardware-edtim-outline-edtim-3.png" alt="external-server-hardware-edtim-outline-edtim-3"/> **Cloud Servers**
+ **Cloud Servers**
   
 ![FIREBASE](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Clerk](https://img.shields.io/badge/clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
