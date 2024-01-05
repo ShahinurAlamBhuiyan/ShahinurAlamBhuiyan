@@ -37,9 +37,9 @@
 
 
 
-***Languages***
 
 
+**Languages**
 
 
 ![Java](https://img.shields.io/badge/java-5382a1?style=for-the-badge&logo=java&logoColor=white)
@@ -51,14 +51,7 @@
 ![kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
-
-
-
-
 **Frontend**
-
-
 
 
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
@@ -82,7 +75,7 @@
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<img width="30" height="30" src="https://img.icons8.com/ios/50/database--v1.png" alt="database--v1"/> **Database**
+ **Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -95,7 +88,7 @@
 ![Clerk](https://img.shields.io/badge/clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
 
-<img width="30" height="30" src="https://img.icons8.com/laces/64/programming.png" alt="programming"/> **Tools**
+ **Tools**
   
 ![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
