@@ -3,14 +3,12 @@
  <a target="_blank" href="https://www.linkedin.com/in/shahinur-alam-bhuiyan/">
  <img src="https://github.com/ShahinurAlamBhuiyan/ShahinurAlamBhuiyan/blob/main/shahin.gif" height="auto"  style="border-radius:1%"></a><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
+ <br /><br />
+
 <h1 align="center">Hi 👋, I'm Shahinur Alam Bhuiyan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" ></h1>
 
 <p align="center" style="text-align: justify;">Software Engineer , passionate about crafting elegant solutions through clean and efficient code. Dedicated to turning ideas into reality with a blend of technical expertise and a creative touch. Join me on this coding journey! 🚀</p>
 
-
-
-
-<br />
 <br />
 <p align="center">
  <a href="https://shahinbhuiyan.web.app/" target="blank">
@@ -137,10 +135,7 @@
     <summary><h3 style="display: inline-block"> 📈 Statistics </h3></summary>
   </ul>
 </div>
-
 <br />
-
-
 
 <div align="center >
  <a href="https://github.com/ShahinurAlamBhuiyan"><img width="440"  src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahinurAlamBhuiyan?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/></a>
