@@ -27,7 +27,7 @@
   </a> 
 </p>
 <br />
-
+<br />
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/ws7w9kM/Programming-amico.png">
 <br /><br />
 
@@ -44,7 +44,7 @@
 - Pronouns: He/His
 
 
-<br /><br /><br />
+<br /><br /><br /><br />
 
 
 
