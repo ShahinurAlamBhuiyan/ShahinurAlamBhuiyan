@@ -9,7 +9,7 @@
 
 
 
-<br />
+<br /><br />
 <p align="center">
  <a href="https://shahinbhuiyan.web.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="shahinbhuiyan" />
@@ -24,10 +24,21 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="raihanuddin" />
  </a>  -->
  <a href="https://www.facebook.com/shahin19sep/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0866FF?&style=for-the-badge&logo=facebook&logoColor=white" alt="raihan"  />
+  <img src="https://img.shields.io/badge/Facebook-0866FF?&style=for-the-badge&logo=facebook&logoColor=white" alt="logo"  />
   </a> 
 </p>
 <br />
+
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/ws7w9kM/Programming-amico.png">
+<br><br>
+
+- 🌱 Always try to learn modern technology
+- 🌱 I’m currently learning Machine Learning, Neural Network
+- 🥅 2024 Goals: Angularjs, Threejs, Vue.js
+- My Resume. [Download](https://drive.google.com/file/d/1R98QtDc2Ugrpi1adkBoSc13PGRqNccO1/view)
+- 🏫 Studies B.Sc (Engineering) in Computer Science & Engineering (C.S.E) at [United International University - UIU](https://www.uiu.ac.bd/).
+- 😄 Pronouns: He/His
+<br /><br /><br />
 
 <div id="user-content-toc">
   <ul align="center">
