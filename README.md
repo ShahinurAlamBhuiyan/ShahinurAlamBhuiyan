@@ -1,7 +1,7 @@
- <a target="_blank" href="https://www.linkedin.com/in/shahinur-alam-bhuiyan/"><img src="https://github.com/ShahinurAlamBhuiyan/ShahinurAlamBhuiyan/blob/main/shahin.gif" height="auto"  style="border-radius:1%"></a>
- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-
+ 
+ <a target="_blank" href="https://www.linkedin.com/in/shahinur-alam-bhuiyan/">
+ <img src="https://github.com/ShahinurAlamBhuiyan/ShahinurAlamBhuiyan/blob/main/shahin.gif" height="auto"  style="border-radius:1%"></a><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Shahinur Alam Bhuiyan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" ></h1>
 
@@ -9,7 +9,9 @@
 
 
 
-<br /><br />
+
+<br />
+<br />
 <p align="center">
  <a href="https://shahinbhuiyan.web.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="shahinbhuiyan" />
@@ -30,14 +32,21 @@
 <br />
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/ws7w9kM/Programming-amico.png">
-<br><br>
+<br /><br />
 
-- 🌱 Always try to learn modern technology
-- 🌱 I’m currently learning Machine Learning, Neural Network
-- 🥅 2024 Goals: Angularjs, Threejs, Vue.js
+- Always try to learn modern technology
+
+- I’m currently exploring Machine Learning & Neural Network
+
+- 2024 Goals: Angularjs, Threejs, Vue.js
+
 - My Resume. [Download](https://drive.google.com/file/d/1R98QtDc2Ugrpi1adkBoSc13PGRqNccO1/view)
-- 🏫 Studies B.Sc (Engineering) in Computer Science & Engineering (C.S.E) at [United International University - UIU](https://www.uiu.ac.bd/).
-- 😄 Pronouns: He/His
+
+- Studies B.Sc (Engineering) in Computer Science & Engineering (C.S.E) at [United International University - UIU](https://www.uiu.ac.bd/).
+
+- Pronouns: He/His
+
+
 <br /><br /><br />
 
 <div id="user-content-toc">
@@ -45,8 +54,6 @@
     <summary><h3 style="display: inline-block">⚡ Tech that's been explored ⚡ </h3></summary>
   </ul>
 </div>
-
-
 
 
 
