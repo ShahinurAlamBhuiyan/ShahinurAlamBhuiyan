@@ -22,9 +22,6 @@
  <a href="https://medium.com/@shahinur-alam-bhuiyan01" target="blank">
   <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="shahinur-alam-bhuiyan01" />
  </a>
-<!--  <a href="https://www.instagram.com/raai_hann/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="raihanuddin" />
- </a>  -->
  <a href="https://www.facebook.com/shahin19sep/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-0866FF?&style=for-the-badge&logo=facebook&logoColor=white" alt="logo"  />
   </a> 
