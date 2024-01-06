@@ -137,18 +137,33 @@
 </div>
 <br />
 
-<div align="center >
- <a href="https://github.com/ShahinurAlamBhuiyan"><img width="440"  src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahinurAlamBhuiyan?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/></a>
- <a href="https://github.com/ShahinurAlamBhuiyan"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShahinurAlamBhuiyan&theme=dark&border_radius=5&fire=EB5454&ring=EB5454&currStreakLabel=EB5454&card_width=400" alt="Saif's GitHub streak"/></a>
-</div>
-
-
 <p align="center">
-<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahinurAlamBhuiyan&theme=dark&Icon=FFFFFF"  alt="GitHub Contribution"/>
+ <img width="500px"  src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahinurAlamBhuiyan?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/>
+</p>
+<p align="center">
+  <a href="https://github.com/ShahinurAlamBhuiyan">
+    <img align="center"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahinurAlamBhuiyan&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF" alt="GitHub Contribution"/>
+  </a>
+  <a href="https://github.com/ShahinurAlamBhuiyan">
+    <img align="center"  height="190px"src="https://github-readme-streak-stats.herokuapp.com?user=ShahinurAlamBhuiyan&theme=dark&border_radius=5&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="GitHub Contribution"/>
+  </a>
 </p>
 
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahinurAlamBhuiyan&theme=high-contrast" />
+ 
+
+
+
+
+<p align="center">
+<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihanwebmaster&theme=dark&Icon=FFFFFF"  alt="GitHub Contribution"/>
+</p>
+
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=raihanwebmaster&theme=high-contrast" />
+
+
+
 
 
 
