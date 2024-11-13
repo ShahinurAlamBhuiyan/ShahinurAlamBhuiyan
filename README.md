@@ -11,7 +11,7 @@
 
 <br />
 <p align="center">
- <a href="https://shahinbhuiyan.web.app/" target="blank">
+ <a href="https://shahinuralambhuiyan.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="shahinbhuiyan" />
  </a>
  <a href="https://www.linkedin.com/in/shahinur-alam-bhuiyan/" target="_blank">
@@ -31,11 +31,9 @@
 
 - Always try to learn modern technology
 
-- I’m currently exploring Machine Learning & Neural Network
+- I’m currently exploring Machine Learning, Deep Learning, NLP
 
-- 2024 Goals: Angularjs, Threejs, Vue.js
-
-- My Resume. [Download](https://drive.google.com/file/d/1R98QtDc2Ugrpi1adkBoSc13PGRqNccO1/view)
+- My Resume. [Download](https://drive.google.com/file/d/18owv08A3EPq2qIG1dZ2wDaVuiyYFXJnx/view)
 
 - Studies B.Sc (Engineering) in Computer Science & Engineering (C.S.E) at [United International University - UIU](https://www.uiu.ac.bd/).
 
@@ -169,11 +167,11 @@
 
 
 [programming]: https://www.programming-hero.com/
-[website]: https://shahinbhuiyan.web.app/
+[website]: https://shahinuralambhuiyan.vercel.app/
 [linkedin]: https://www.linkedin.com/in/shahinur-alam-bhuiyan/
-[webdevplaylist]: https://shahinbhuiyan.web.app/
-[jsplaylist]: https://shahinbhuiyan.web.app/
-[cssplaylist]: https://shahinbhuiyan.web.app/
-[reactplaylist]: https://shahinbhuiyan.web.app/
+[webdevplaylist]: https://shahinuralambhuiyan.vercel.app/
+[jsplaylist]: https://shahinuralambhuiyan.vercel.app/
+[cssplaylist]: https://shahinuralambhuiyan.vercel.app/
+[reactplaylist]: https://shahinuralambhuiyan.vercel.app/
 [Facebook]: https://www.facebook.com/shahin19sep/
 [Medium]: https://medium.com/@shahinur-alam-bhuiyan01/
