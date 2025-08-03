@@ -33,7 +33,7 @@
 
 - I’m currently exploring Machine Learning, Deep Learning, NLP
 
-- My Resume. [Download](https://drive.google.com/file/d/18owv08A3EPq2qIG1dZ2wDaVuiyYFXJnx/view)
+- My Resume. [Download](https://drive.google.com/file/d/1pBfMVd-Pp-TwtK6sMWCitFiZvbEj_uRt/view)
 
 - Studies B.Sc (Engineering) in Computer Science & Engineering (C.S.E) at [United International University - UIU](https://www.uiu.ac.bd/).
 
